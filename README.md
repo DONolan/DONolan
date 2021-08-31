@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DONolan
-- 👀 I’m interested in Materials Chemistry, improving data routine data analysis, and making awesome figures
+- 👀 I’m interested in Materials Chemistry, improving routine data collection and analysis, and making awesome figures
 - 🌱 I’m currently learning Python 3
 - 📫 How to reach me ChemXtal[at]gmail(dot)com
 
